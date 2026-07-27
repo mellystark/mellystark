@@ -2,15 +2,10 @@
 
 <img
   src="https://media.licdn.com/dms/image/v2/D4D03AQHEvDG_BJ4YNg/profile-displayphoto-scale_200_200/B4DZ8BLyXxJsAc-/0/1782431296813?e=2147483647&v=beta&t=sP-mmzNkBd11Ov1OeB3CxlyFR409HbxCbs1u3g7uwhY"
-  width="100%"
+  width="180"
+  height="180"
   alt="Melike Çakmakoğlu"
 />
-
-<img
-  src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=26&pause=1100&color=C77DA4&center=true&vCenter=true&width=900&lines=Building+intelligent+and+human-centered+software;Turning+research+into+real-world+products;AI+%E2%9C%A6+Mobile+%E2%9C%A6+Full-Stack+Development"
-  alt="Typing introduction"
-/>
-
 <br/>
 
 <a href="https://mellystark.github.io/">
@@ -29,13 +24,10 @@
   <img src="https://img.shields.io/badge/Email-E8A8C5?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
-<br/><br/>
+<br/>
 
-<p><strong>⋆｡°✩ Engineering with logic, courage, and a little stardust ✩°｡⋆</strong></p>
 
 </div>
-
----
 
 ## 🌸 About Me
 
