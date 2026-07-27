@@ -30,7 +30,7 @@
 
 ## 🌸 About Me
 
-Hi, I'm **Melike Çakmakoğlu**, a computer engineer focused on building intelligent, practical, and user-centered software.
+Hi, I'm **Melike**, a computer engineer focused on building intelligent, practical, and user-centered software.
 
 My work brings together **artificial intelligence**, **mobile application development**, and **full-stack engineering**. I enjoy taking an idea from research and model development all the way to a working product that people can actually use.
 
