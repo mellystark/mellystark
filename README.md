@@ -7,9 +7,6 @@
 />
 <br/>
 
-<a href="https://mellystark.github.io/">
-  <img src="https://img.shields.io/badge/Portfolio-F2B8D0?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-</a>
 <a href="https://www.linkedin.com/in/melike-%C3%A7akmako%C4%9Flu-008a47252">
   <img src="https://img.shields.io/badge/LinkedIn-E7B8ED?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
