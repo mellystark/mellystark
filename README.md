@@ -1,10 +1,9 @@
 <div align="center">
 
 <img
-  src="https://media.licdn.com/dms/image/v2/D4D03AQHEvDG_BJ4YNg/profile-displayphoto-scale_200_200/B4DZ8BLyXxJsAc-/0/1782431296813?e=2147483647&v=beta&t=sP-mmzNkBd11Ov1OeB3CxlyFR409HbxCbs1u3g7uwhY"
-  width="180"
-  height="180"
-  alt="Melike Çakmakoğlu"
+  src="./assets/m1.jpeg"
+  width="320"
+  alt="Pink technology fairy"
 />
 <br/>
 
